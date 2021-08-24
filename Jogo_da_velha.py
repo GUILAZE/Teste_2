@@ -212,3 +212,5 @@ while not acabou:
     imprimiTabuleiro(tabuleiro)
     tabuleiro = jogada(tabuleiro)   
     acabou = confereFim(tabuleiro, "O")
+
+print("oi")
