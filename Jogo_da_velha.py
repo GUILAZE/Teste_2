@@ -213,4 +213,4 @@ while not acabou:
     tabuleiro = jogada(tabuleiro)   
     acabou = confereFim(tabuleiro, "O")
 
-print("oi")
+print("olá")
